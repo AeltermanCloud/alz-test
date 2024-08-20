@@ -1,0 +1,18 @@
+{
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-landing-zone-connectivity",
+  "RELEASE_VERSION": "v0.19.0",
+  "PREFIX": "landing-zone",
+  "LOGGING_RESOURCE_GROUP": "rg-landing-zone-logging",
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "IDENTITY_SUBSCRIPTION_ID": "d08095f8-98fa-434e-8f14-6d06471029b0",
+  "LOCATION": "canadacentral",
+  "MANAGEMENT_GROUP_ID": "landing-zone",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "",
+  "NETWORK_TYPE": "hubNetworking",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "fca9eaf6-728a-4252-9e2d-aa2532c82614",
+  "MANAGEMENT_SUBSCRIPTION_ID": "efd2877e-cc6a-4660-ab6d-60f1c33f3ded"
+}
